@@ -1,0 +1,35 @@
+{
+  "files": {
+    "中华人民共和国民法典.pdf": {
+      "size": 1205952,
+      "modified_time": 1744820201.184201,
+      "hash": "a305fc8a8dda9a6a2a95c84561fe6027",
+      "last_processed": "2025-04-17T00:45:46.129734"
+    },
+    "莫泊桑小说集.pdf": {
+      "size": 2925099,
+      "modified_time": 1744819670.4172235,
+      "hash": "0acc70b863cea3793de02344da1ea051",
+      "last_processed": "2025-04-17T00:45:46.135045"
+    },
+    "test.txt": {
+      "size": 5637,
+      "modified_time": 1744822880.0639162,
+      "hash": "f5a7a10d68e41ace45954a4dc76f9c98",
+      "last_processed": "2025-04-17T01:01:25.102439"
+    },
+    "test_case.txt": {
+      "size": 5918,
+      "modified_time": 1744882048.6205637,
+      "hash": "bf19ca091b13cd46d93454f4d6fb738f",
+      "last_processed": "2025-04-17T17:27:28.638624"
+    },
+    "我的遥远的清平湾.txt": {
+      "size": 40947,
+      "modified_time": 1761707865.4533842,
+      "hash": "33564d473e7bc9390d8bce4f8ebcc50d",
+      "last_processed": "2025-10-29T14:07:07.642995"
+    }
+  },
+  "last_update": "2025-11-02T13:59:44.479708"
+}
